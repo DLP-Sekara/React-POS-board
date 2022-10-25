@@ -4,4 +4,4 @@
 ## Screenshots
 
 ### 1
-![](assets/img1.png)
+![](src\assets\img1.png)
