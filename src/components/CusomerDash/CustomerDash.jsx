@@ -1,16 +1,16 @@
 import { Card } from '@mui/material'
-import React ,{visibility}from 'react'
+import React from 'react'
 import Cards from '../Cards/Cards'
 import Table from '../Table/Table'
-import './MainDash.css'
+import './CustomerDash.css'
 
 const MainDash = () => {
  
   return (
-    <div className='MainDash' >
-        <h1 className='pageTitle'>Dashboard</h1>
-      <Cards/>
-      <Table/>
+    <div className='CustomerDash' >
+        <h1 className='pageTitle'>Customer</h1>
+      {/* <Cards/>
+      <Table/> */}
     </div>
   )
 }
